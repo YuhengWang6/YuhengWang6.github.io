@@ -17,42 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Wang Yuheng, and I am currently a PhD candidate at the School of Transportation Engineering, Chang’an University, under the supervision of Professor Wang Yongjie. I am pursuing an integrated master's and doctoral program and received my bachelor's degree from the School of Management, Xihua University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include traffic safety, machine vision, autonomous driving, and knowledge graphs.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+**PhD in Transportation Planning and Management**  
+School of Transportation Engineering, Chang’an University  
+*Sept. 2024 – Present*
 
-# 📝 Publications 
+**Master of Transportation Engineering**  
+School of Transportation Engineering, Chang’an University  
+*Sept. 2022 – June 2024*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Bachelor of Accounting**  
+School of Management, Xihua University  
+*June 2017 – June 2021*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022*， Second-Class Academic Scholarship for the 2021-2022 Academic Year (Graduate)
+- *2023*， First-Class Academic Scholarship for the 2022-2023 Academic Year (Graduate)
+- *April 2023*， Third Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
+- *May 2023*， Named "Outstanding Youth League Member" for the 2022-2023 Academic Year
+- *June 2023*， Third Prize in the 2023 Chang'an University Graduate Mathematical Modeling Competition
+- *December 2023*， Awarded the title of "Outstanding Graduate" for the 2022-2023 Academic Year
+- *December 2023*， Third Prize in the 20th "Huawei Cup" China Graduate Mathematical Modeling Competition
+- *April 2024*，Second Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
+- *2024*， Second-Class Academic Scholarship for the 2023-2024 Academic Year (Graduate)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Internship Experience
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Procurement Assistant**  
+Compal Electronics, Chengdu  
+*Feb. 2022 – Aug. 2022*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 On-Campus Experience
+
+- *2018-2019*， Served as the Head of the Board Game Club, responsible for planning activities and organizing members. Awarded the title of "Outstanding Head." Passed the National Computer Level 2 Exam and became proficient in using office software such as OFFICE and WPS.
+- *July 2023*，Participated in a summer social practice program in Baoji, which enhanced my teamwork and communication skills.
+- *Sept. 2023 – June 2024*， Served as President of the Graduate Student Union of the School of Transportation Engineering, assisting faculty with daily management tasks, organizing and planning student activities, and successfully completing all assigned responsibilities. This experience developed my sense of responsibility and teamwork.
+
