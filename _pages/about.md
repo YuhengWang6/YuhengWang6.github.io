@@ -21,7 +21,7 @@ My name is Wang Yuheng, and I am currently a PhD candidate at the School of Tran
 
 My research interests include traffic safety, machine vision, autonomous driving, and knowledge graphs.
 
-Find my CV here：[CV](../assets/CV.pdf)
+Find my CV here：[CV](assets/CV.pdf)
 
 # 📖 Education
 **PhD in Transportation Planning and Management**  
@@ -36,16 +36,6 @@ School of Transportation Engineering, Chang’an University
 School of Management, Xihua University  
 *June 2017 – June 2021*
 
-# 🎖 Honors and Awards
-- *2022*， Second-Class Academic Scholarship for the 2021-2022 Academic Year (Graduate)
-- *2023*， First-Class Academic Scholarship for the 2022-2023 Academic Year (Graduate)
-- *April 2023*， Third Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
-- *May 2023*， Named "Outstanding Youth League Member" for the 2022-2023 Academic Year
-- *June 2023*， Third Prize in the 2023 Chang'an University Graduate Mathematical Modeling Competition
-- *December 2023*， Awarded the title of "Outstanding Graduate" for the 2022-2023 Academic Year
-- *December 2023*， Third Prize in the 20th "Huawei Cup" China Graduate Mathematical Modeling Competition
-- *April 2024*，Second Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
-- *2024*， Second-Class Academic Scholarship for the 2023-2024 Academic Year (Graduate)
 
 # 💻 Internship Experience
 
@@ -59,3 +49,13 @@ Compal Electronics, Chengdu
 - *July 2023*，Participated in a summer social practice program in Baoji, which enhanced my teamwork and communication skills.
 - *Sept. 2023 – June 2024*， Served as President of the Graduate Student Union of the School of Transportation Engineering, assisting faculty with daily management tasks, organizing and planning student activities, and successfully completing all assigned responsibilities. This experience developed my sense of responsibility and teamwork.
 
+# 🎖 Honors and Awards
+- *2022*， Second-Class Academic Scholarship for the 2021-2022 Academic Year (Graduate)
+- *2023*， First-Class Academic Scholarship for the 2022-2023 Academic Year (Graduate)
+- *April 2023*， Third Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
+- *May 2023*， Named "Outstanding Youth League Member" for the 2022-2023 Academic Year
+- *June 2023*， Third Prize in the 2023 Chang'an University Graduate Mathematical Modeling Competition
+- *December 2023*， Awarded the title of "Outstanding Graduate" for the 2022-2023 Academic Year
+- *December 2023*， Third Prize in the 20th "Huawei Cup" China Graduate Mathematical Modeling Competition
+- *April 2024*，Second Prize in the Shaanxi Division of the National College Students Transportation Science and Technology Competition and the 1st Shaanxi University Students Transportation Science and Technology Competition
+- *2024*， Second-Class Academic Scholarship for the 2023-2024 Academic Year (Graduate)
