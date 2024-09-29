@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "about me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -21,6 +21,7 @@ My name is Wang Yuheng, and I am currently a PhD candidate at the School of Tran
 
 My research interests include traffic safety, machine vision, autonomous driving, and knowledge graphs.
 
+find my CV here：[CV](../assets/CV.pdf)
 
 # 📖 Education
 **PhD in Transportation Planning and Management**  
