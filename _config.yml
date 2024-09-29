@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Yuheng Wang"
 description              : "A Ph.D candidate at The Chang’an University"
+CV                       : Find my CV here：[CV](assets/CV.pdf)
 repository               : "YuhengWang6/YuhengWang6.github.io"
 google_scholar_stats_use_cdn : true
 
