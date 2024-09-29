@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuheng Wang"
-description              : #"The important thing is not to stop questioning. Curiosity has its own reason for existence. "
+description              : "The important thing is not to stop questioning."
 repository               : "YuhengWang6/YuhengWang6.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuheng Wang"
   avatar           : "images/profile.png"
-  bio              : "The important thing is not to stop questioning. Curiosity has its own reason for existence. "
+  bio              : " Curiosity has its own reason for existence. "
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2024034020@chd.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuheng-Wang-24"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "YuhengWang6"
+  github           :  "YuhengWang6"
   google_plus      :
   keybase          :
   instagram        :
