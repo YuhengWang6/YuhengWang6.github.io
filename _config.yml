@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuheng Wang"
-description              : "The important thing is not to stop questioning. Curiosity has its own reason for existence. "
+description              : #"The important thing is not to stop questioning. Curiosity has its own reason for existence. "
 repository               : "YuhengWang6/YuhengWang6.github.io"
 google_scholar_stats_use_cdn : true
 
