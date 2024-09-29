@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuheng Wang"
-description              : "The important thing is not to stop questioning."
+description              : "A Ph.D candidate at The Chang’an University"
 repository               : "YuhengWang6/YuhengWang6.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuheng Wang"
   avatar           : "images/profile.png"
-  bio              : " Curiosity has its own reason for existence. "
+  bio              : " The important thing is not to stop questioning. Curiosity has its own reason for existence. "
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : 
